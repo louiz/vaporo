@@ -1,0 +1,3 @@
+[submodule "SteamPP"]
+	path = SteamPP
+	url = https://github.com/louiz/SteamPP.git
