@@ -1,0 +1,2 @@
+#define SYSTEM_NAME "${CMAKE_SYSTEM}"
+#cmakedefine VAPORO "${VAPORO_VERSION}"
