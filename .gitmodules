@@ -1,3 +1,7 @@
 [submodule "SteamPP"]
 	path = SteamPP
 	url = https://github.com/louiz/SteamPP.git
+[submodule "louloulibs"]
+	path = louloulibs
+	url = git://git.louiz.org/louloulibs
+	branch = master
